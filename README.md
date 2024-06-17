@@ -9,11 +9,14 @@
 <br/>
 
 ### 👩‍💻 What I do...
-**Language & FrameWork** <br/>
+**Language & FrameWork** <br/> <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <br/><br/>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" width =500> 
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!--
 **eulneul/eulneul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
