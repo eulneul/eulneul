@@ -1,4 +1,4 @@
-## Hi, I'm Mina Kim 🙂 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=27A861&random=false&width=435&lines=+Hi%2C+I'm+Mina+Kim+%F0%9F%99%82)](https://git.io/typing-svg)
 
 ---
 ### About me...
@@ -12,7 +12,8 @@
 **Language & FrameWork** <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <br/><br/>
 
-
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eulneul)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **eulneul/eulneul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
