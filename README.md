@@ -3,7 +3,7 @@
 ---
 ### About me...
 - 🌟 I'm currently learning **Data Science** in the Software Convergence at Kyung Hee Univ. <br/>
-- 🤔 I'm interested in Data Analysis & Data Businsess <br/>
+- 🤔 I'm interested in Data Analysis & Data Business <br/>
 - 📫 How to reach me: eulneul@khu.ac.kr or eulneul@naver.com <br/>
 ---
 <br/>
